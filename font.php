@@ -3,5 +3,9 @@
     <title>การคำนวณรูปแบบตัวอักษร</title>
     <style>
       @font-face{
-        font_family: "Myfont1";
-        src: url("
+        font-family: "Myfont1";
+        src: url("Fahkwang.ttf")
+      }
+      @font-face{
+        font-family: "Myfont2";
+        src: url
