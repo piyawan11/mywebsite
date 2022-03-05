@@ -8,7 +8,7 @@
       }
       @font-face{
         font-family: "Myfont2";
-        src: url("K2D-Bold.ttf");
+        src: url("Fahkwang-Italic.ttf");
       }
       #font1{
         font-family: "Myfont1":
