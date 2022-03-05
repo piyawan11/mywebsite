@@ -4,11 +4,11 @@
     <style>
       @font-face{
         font-family: "Myfont1";
-        src: url("Fahkwang.ttf");
+        src: url("Fahkwang-Bold.ttf");
       }
       @font-face{
         font-family: "Myfont2";
-        src: url("K2D.ttf");
+        src: url("K2D-Bold.ttf");
       }
       #font1{
         font-family: "Myfont1":
