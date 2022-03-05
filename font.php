@@ -4,7 +4,7 @@
     <style>
       @font-face{
         font-family: "Myfont1";
-        src: url("Chocolateteehaypai.ttf");
+        src: url("ChocolateteehaypaiTEST.ttf.ttf");
       }
       @font-face{
         font-family: "Myfont2";
