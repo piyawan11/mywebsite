@@ -4,11 +4,11 @@
     <style>
       @font-face{
         font-family: "Myfont1";
-        src: url("ChocolateteehaypaiTEST.ttf.ttf");
+        src: url("ChocolateteehaypaiTEST.ttf");
       }
       @font-face{
         font-family: "Myfont2";
-        src: url("MNN_Tuaklom.ttf");
+        src: url("MNNTuaklom.ttf");
       }
       #font1{
         font-family: "Myfont1":
