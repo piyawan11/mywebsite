@@ -1,25 +1,27 @@
+<!DOCTYPE html>
 <html>
-  <head>
-    <title>การคำนวณรูปแบบตัวอักษร</title>
-    <style>
-      @font-face{
-        font-family: "Myfont1";
-        src: url(SOV_UnderLine.woff);
-      }
-      @font-face{
-        font-family: "Myfont2";
-        src: url(Arrow.woff);
-      }
+<head>
+	<meta charset="utf-8">
+	<title>กำหนดรูปแบบตัวอักษร</title>
+  <style>
+    @font-face{
+      font-family: myFont1;
+      src: url()
+    }
+    @font-face{
+      font-family: myFont2;
+      src: url()
+    }
     #font1{
-        font-family: "Myfont1":
-      }
-      #font2{
-        font-family: "Myfont2";
-      }
-    </style>
-  </head>
-  <body>
-    <h1 id="font1">นางสาวปิยวรรณ เติมเสริม ม.4/12 เลขที่ 13 เลขประจำตัว 57034</h1>
-    <h1 id="font2">นางสาวปิยวรรณ เติมเสริม ม.4/12 เลขที่ 13 เลขประจำตัว 57034</h1>
-  </body>
+	font-family: myFont1;
+    }
+    #font2{
+	font-family: myFont2;
+    }
+  </style>
+</head>
+<body>
+  <h1 id="font1">นางสาวปิยวรรณ เติมเสริม ม.4/12 เลขที่ 13 เลขประจำตัว 57034</h1>
+  <h1 id="font2">นางสาวปิยวรรณ เติมเสริม ม.4/12 เลขที่ 13 เลขประจำตัว 57034</h1>
+</body>
 </html>
