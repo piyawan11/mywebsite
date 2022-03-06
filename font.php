@@ -8,9 +8,9 @@
       }
       @font-face{
         font-family: "Myfont2";
-        src: url("MNNTuaklom.ttf");
+        src: url(Arrow.woff);
       }
-      #font1{
+    #font1{
         font-family: "Myfont1":
       }
       #font2{
