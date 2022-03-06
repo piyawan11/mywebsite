@@ -6,11 +6,11 @@
   <style>
     @font-face{
       font-family: myFont1;
-      src: url()
+      src: url(Arrow.woff)
     }
     @font-face{
       font-family: myFont2;
-      src: url()
+      src: url(SOV_UnderLine.woff)
     }
     #font1{
 	font-family: myFont1;
