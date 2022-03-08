@@ -30,13 +30,13 @@
       </tr>
       <tr>
         <td>4</td>
-        <td><Shu Yamino</td>
+        <td>Shu Yamino</td>
         <td><img src="https://cdn.shopify.com/s/files/1/0577/1254/1891/collections/7QaPU8DF03UA9Flw_x400.jpg?v=1639661033"</td>
         <td><a href="https://twitter.com/shu_yamino?s=20&t=CptzxaKYXkAbyL-r3PmiPw">Twitter</td>
       </tr>
       <tr>
         <td>5</td>
-        <td><Mysta Rias</td>
+        <td>Mysta Rias</td>
         <td><img src="https://cdn.shopify.com/s/files/1/0577/1254/1891/collections/CeMBhwhqCvsOp4I5_x400.jpg?v=1639661113"</td>
         <td><a href="https://twitter.com/Mysta_Rias?s=20&t=CptzxaKYXkAbyL-r3PmiPw">Twitter</td>
       </tr>
