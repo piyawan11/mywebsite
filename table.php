@@ -25,7 +25,7 @@
       <tr>
         <td>3</td>
         <td>Ike Eveland</td>
-        <td><img src="https://pin.it/6QAs7lw"</td>
+        <td><img src="https://cdn.shopify.com/s/files/1/0577/1254/1891/collections/4TB2ArrfM4755oOI_x400.jpg?v=1639661130"</td>
         <td><a href="https://twitter.com/ike_eveland?s=20&t=CptzxaKYXkAbyL-r3PmiPw">Twitter</td>
       </tr>
       <tr>
