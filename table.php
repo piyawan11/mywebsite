@@ -12,7 +12,7 @@
       </tr>
       <tr>
         <td>1</td>
-        <td>Luca kaneshiro</td
+        <td>Luca kaneshiro</td>
         <td><img src="https://cdn.shopify.com/s/files/1/0577/1254/1891/collections/03r8xo4FygM1egk8_x400.jpg?v=1639661046"</td>
         <td><a href="https://twitter.com/luca_kaneshiro?s=20&t=CptzxaKYXkAbyL-r3PmiPw">Twitter</td>
       </tr>
